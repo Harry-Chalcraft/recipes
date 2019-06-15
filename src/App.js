@@ -11,8 +11,8 @@ class App extends Component{
     super();
     this.state = {
       recipes: [],
-      url:"https://www.food2fork.com/api/search?key=f7fd1ca7321b3cbdb15867cdd3622daa",
-      base_url:"https://www.food2fork.com/api/search?key=f7fd1ca7321b3cbdb15867cdd3622daa",
+      // url:`https://www.food2fork.com/api/search?key=${YOUR API KEY}`,
+      // base_url:`https://www.food2fork.com/api/search?key=${YOUR API KEY}`,
       details_id:35382,
       pageIndex: 1,
       search:"",
