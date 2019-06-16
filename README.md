@@ -21,9 +21,15 @@ The project uses the [Food2Fork API](https://www.food2fork.com/), to collect all
 The styling is primarly from [Reactstrap](https://reactstrap.github.io/) - an Open source toolkit for front-end component.
 
 **Screenshots:**
-
+* Home:
 ![recipes1](https://i.ibb.co/QQwfyrS/recipes1.png)
+
+
+* Recipes:
 ![recipes2](https://i.ibb.co/q0JTdr9/recipes2.png)
+
+
+* Recipe details
 ![recipes3](https://i.ibb.co/xSvyKNb/recipes3.png)
 
 ## Developed With
