@@ -1,11 +1,11 @@
 # recipes
-A simple movie plateform to check out the latest movies
+A website with all your favourite recipes
 
 Go **[here](https://harry-chalcraft-recipes.herokuapp.com/)** for live demo.
 
 This is a fun project to work on when learning ReactJS.
 
-This react project is exclusively frontend only. It does not use Redux, so it involves a lot of data flow and reverse data flow. It has 5 components which are:
+This react project is exclusively frontend. It does not use Redux, so it involves a lot of data flow and reverse data flow. It has 5 components which are:
 
 * App.js
 * RecipeList
