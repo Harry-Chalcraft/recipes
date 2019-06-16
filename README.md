@@ -27,7 +27,7 @@ The styling is primarly from [Reactstrap](https://reactstrap.github.io/) - an Op
 
 
 * Recipes:
-![recipes2](https://i.ibb.co/q0JTdr9/recipes2.png)
+![recipes2](https://i.ibb.co/Tmrpwn6/recipes4.png)
 
 
 * Recipe details
