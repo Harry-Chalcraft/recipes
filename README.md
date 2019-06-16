@@ -14,6 +14,7 @@ This react project is exclusively frontend. It does not use Redux, so it involve
 * RecipeDetails
 
 They are organised as :
+
 ![recipediagram](https://i.ibb.co/6sZqZq7/Untitled-Diagram.png)
 
 The project uses the [Food2Fork API](https://www.food2fork.com/), to collect all the recipe information. It requires to have an acocunt.
