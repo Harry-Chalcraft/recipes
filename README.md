@@ -17,7 +17,7 @@ They are organised as :
 
 ![recipediagram](https://i.ibb.co/6sZqZq7/Untitled-Diagram.png)
 
-The project uses the [Food2Fork API](https://www.food2fork.com/), to collect all the recipe information. It requires to have an acocunt.
+The project uses the [Food2Fork API](https://www.food2fork.com/), to collect all the recipe information. It requires to have an account.
 
 The styling is primarly from [Reactstrap](https://reactstrap.github.io/) - an Open source toolkit for front-end component.
 
