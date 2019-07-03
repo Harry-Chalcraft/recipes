@@ -33,7 +33,7 @@ The styling is primarly from [Reactstrap](https://reactstrap.github.io/) - an Op
 * Recipe details
 ![recipes3](https://i.ibb.co/xSvyKNb/recipes3.png)
 
-## Developed With
+## Developed With 
 
 * [React](https://reactjs.org/) - A javascript library for building user interfaces
 * [Reactstrap](https://reactstrap.github.io/) - an Open source toolkit for front-end component
